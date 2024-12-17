@@ -1,16 +1,15 @@
-## Hi there 👋
+# Steven Lin
 
-<!--
-**steven012022/steven012022** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi, I'm Steven Lin, a Senior Software Engineer based in United States. I specialize in AI-driven chatbot development using IBM Watson, and I'm passionate about building scalable and efficient systems. With experience in a variety of full-stack technologies and a strong background in Docker, Git, and development processes, I aim to create solutions that align with business goals.
 
-Here are some ideas to get you started:
+## 🚀 𝗦𝗞𝗜𝗟𝗟𝗦
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Programming Languages:** JavaScript, TypeScript, Java, Node.js, C#, Python, SQL, CSS, SCSS, SASS  
+- **Frameworks & Libraries:** React.js, Vue.js, Spring Boot, ASP.NET Core, Express.js, React Native  
+- **Development Principles:** RESTful APIs, TDD, Agile, SPA  
+- **Development Tools:** Docker, AWS, IBM Cloud, IBM Watson Assistant, IBM Watson Discovery, NPM, Yarn, Git, Webpack  
+- **Databases:** MSSQL, PostgreSQL, MongoDB, Redis  
+
+
+
+### Feel free to explore my repositories and reach out for collaboration or job opportunities!
